@@ -1,4 +1,11 @@
 ------------------------------------------------------------------------
+r1889 | evans | 2016-01-12 16:18:10 +0100 (Tue, 12 Jan 2016) | 4 lines
+
+Fix BIOS updating issue due to unstable ME lock and unlock operations.
+
+Signed-off-by: Evans Huang <evhuang@celestica.com>
+Acked-by: Evans Huang <evhuang@celestica.com>
+------------------------------------------------------------------------
 r1888 | stefanct | 2015-03-01 23:12:16 +0100 (Sun, 01 Mar 2015) | 4 lines
 
 Tag flashrom 0.9.8.
